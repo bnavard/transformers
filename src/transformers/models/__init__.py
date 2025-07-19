@@ -279,6 +279,7 @@ if TYPE_CHECKING:
     from .seamless_m4t import *
     from .seamless_m4t_v2 import *
     from .segformer import *
+    from .segformer3d import *
     from .seggpt import *
     from .sew import *
     from .sew_d import *
